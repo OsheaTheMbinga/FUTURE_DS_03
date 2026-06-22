@@ -1,6 +1,6 @@
 ## Dashboard Preview
 
-![Funnel Analysis Dashboard](screenshots/Funnel Analysis Dashboard.HEIC)# Marketing Funnel & Conversion Performance Analysis
+![Funnel Analysis Dashboard](screenshots/Funnel Analysis Dashboard.png)# Marketing Funnel & Conversion Performance Analysis
 
 ## Project Overview
 
