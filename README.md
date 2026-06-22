@@ -1,6 +1,4 @@
-## Dashboard Preview
 
-![Funnel Analysis Dashboard](screenshots/Funnel Analysis Dashboard.png)# Marketing Funnel & Conversion Performance Analysis
 
 ## Project Overview
 
@@ -51,6 +49,9 @@ The Tableau dashboard includes:
 * Age Distribution Analysis
 * Marital Status Analysis
 
+## Dashboard Preview
+
+![Dashboard](Funnel_Analysis_Dashboard.png)
 ---
 
 ## Key Insights
